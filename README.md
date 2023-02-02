@@ -1,1 +1,1 @@
-# M1_Hackathon
+# M3_Applied Deep Learning
